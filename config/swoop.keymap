@@ -80,7 +80,7 @@
 	      // R1 Left
 	      ___   ___   ___   ___   ___
 	      // R1 Right
-	      &kp K_REDO  &kp K_PAST  &kp K_COPY  &kp K_CUT  &kp K_UNDO
+	      &kp K_REDO  &kp K_PASTE  &kp K_COPY  &kp K_CUT  &kp K_UNDO
 	      // R2 Left
 	      &kp LGUI  &kp LALT  &kp LCTL  &kp LSHIFT  ___
 	      // R2 Right
