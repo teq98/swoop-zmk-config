@@ -55,7 +55,6 @@
         // cause false negatives.
         hm_shift_l: hm_shift_l {
             compatible = "zmk,behavior-hold-tap";
-            display-name = "HOMEROW_MODS_FAST_LEFT";
             #binding-cells = <2>;
             bindings = <&kp>, <&kp>;
 
@@ -69,7 +68,6 @@
 
         hm_shift_r: hm_shift_r {
             compatible = "zmk,behavior-hold-tap";
-	    display-name = "HOMEROW_MODS_FAST_RIGHT";
             #binding-cells = <2>;
             bindings = <&kp>, <&kp>;
 
