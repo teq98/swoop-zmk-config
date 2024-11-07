@@ -54,22 +54,22 @@
 
             bindings = <
 	      // R1 Left
-	      &kp Q &kp W &kp F &kp P &kp B
+	      &kp Q  &kp W  &kp F  &kp P  &kp B
 	      // R1 Right
-	      &kp J &kp L &kp U &kp Y &kp SQT
+	      &kp J  &kp L  &kp U  &kp Y  &kp SQT
 	      // R2 Left
-	      &hm_l LGUI A &hm_l LALT R &hm_l LCTL S &hm_shift_l LSHIFT T &kp G
+	      &hm_l LGUI A  &hm_l LALT R  &hm_l LCTL S  &hm_shift_l LSHIFT T  &kp G
 	      // R2 Right
-	      &kp M &hm_shift_r RSHIFT N &hm_r RCTL E &hm_r RALT I &hm_r RGUI O
+	      &kp M  &hm_shift_r RSHIFT N  &hm_r RCTL E  &hm_r RALT I  &hm_r RGUI O
 	      // R3 Left
-	      &kp Z &kp X &kp C &kp D &kp V
+	      &kp Z  &kp X  &kp C  &kp D  &kp V
 	      // R3 Right
-	      &kp K &kp H &kp COMMA &kp DOT &kp FSLH
+	      &kp K  &kp H  &kp COMMA  &kp DOT  &kp FSLH
 
 	      // Thumb Left
-              &lt MEDIA ESC &lt NAV SPACE &lt MOUSE TAB
+              &lt MEDIA ESC  &lt NAV SPACE  &lt MOUSE TAB
 	      // Thumb Right
-	      &lt SYM RET &lt NUM BSPC &lt FUNC DEL
+	      &lt SYM RET  &lt NUM BSPC  &lt FUNC DEL
             >;
         };
 
@@ -80,15 +80,15 @@
 	      // R1 Left
 	      ___   ___   ___   ___   ___
 	      // R1 Right
-	      &kp K_REDO &kp K_PAST &kp K_COPY &kp K_CUT &kp K_UNDO
+	      &kp K_REDO  &kp K_PAST  &kp K_COPY  &kp K_CUT  &kp K_UNDO
 	      // R2 Left
-	      &kp LGUI &kp LALT &kp LCTL &kp LSHIFT ___
+	      &kp LGUI  &kp LALT  &kp LCTL  &kp LSHIFT  ___
 	      // R2 Right
-	      &caps_word &kp LEFT &kp DOWN &kp UP &kp RIGHT
+	      &caps_word  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT
 	      // R3 Left
 	      ___   ___   ___   ___   ___ 
 	      // R3 Right
-	      &kp INS &kp HOME &kp PG_DN &kp PG_UP &kp END
+	      &kp INS  &kp HOME  &kp PG_DN  &kp PG_UP  &kp END
 	      // Thumb Left
 	      ___   ___   ___
 	      // Thumb Right
@@ -102,21 +102,21 @@
 
             bindings = <
 	      // R1 Left
-   	      &kp LBRC &kp AMPS &kp STAR &kp LPAR &kp RBRC
+   	      &kp LBRC  &kp AMPS  &kp STAR  &kp LPAR  &kp RBRC
 	      // R1 Right
 	      ___   ___   ___   ___  ___
 	      // R2 Left
-	      &kp COLON &kp DLLR  &kp PRCNT &kp CARET &kp PLUS
+	      &kp COLON  &kp DLLR  &kp PRCNT  &kp CARET  &kp PLUS
 	      // R2 Right
-	      ___   &kp RSHIFT &kp RCTL &kp RALT &kp RGUI
+	      ___  &kp RSHIFT  &kp RCTL  &kp RALT  &kp RGUI
 	      // R3 Left
-	      &kp TILDE &kp EXCL  &kp AT &kp HASH &kp PIPE
+	      &kp TILDE  &kp EXCL  &kp AT  &kp HASH  &kp PIPE
 	      // R3 Right
-	      ___   ___   ___   ___  ___
+	      ___  ___  ___  ___  ___
 	      // Thumb Left
               &kp LPAR &kp RPAR &kp UNDER
 	      // Thumb Right
-	      ___   ___   ___
+	      ___  ___  ___
             >;
         };
 
@@ -125,21 +125,21 @@
 
             bindings = <
 	      // R1 Left
-	      &kp F12 &kp F7 &kp F8 &kp F9 &kp PSCRN
+	      &kp F12  &kp F7  &kp F8  &kp F9  &kp PSCRN
 	      // R1 Right
-	      ___   ___   ___   ___  ___
+	      ___  ___  ___  ___  ___
 	      // R2 Left
-	      &kp F11 &kp F4 &kp F5 &kp F6 &kp SLCK
+	      &kp F11  &kp F4  &kp F5  &kp F6  &kp SLCK
 	      // R2 Right
-	      ___   &kp RSHIFT &kp RCTL &kp RALT &kp RGUI
+	      ___  &kp RSHIFT  &kp RCTL  &kp RALT  &kp RGUI
 	      // R3 Left
-	      &kp F10 &kp F1 &kp F2 &kp F3 &kp PAUSE_BREAK
+	      &kp F10  &kp F1  &kp F2  &kp F3  &kp PAUSE_BREAK
 	      // R3 Right 
-	      ___   ___   ___   ___  ___
+	      ___  ___  ___  ___  ___
 	      // Thumb Left
-              &kp K_APP &kp SPACE &kp TAB   
+              &kp K_APP  &kp SPACE  &kp TAB   
 	      // Thumb Right
-	      ___   ___   ___
+	      ___  ___  ___
             >;
         };
 
@@ -148,21 +148,21 @@
 
             bindings = <
 	      // R1 Left
-	      ___   ___   ___   ___   ___
+	      ___  ___  ___  ___  ___
 	      // R1 Right
-	      ___   ___  &kp C_BRI_DN &kp C_BRI_UP ___
+	      ___  ___  &kp C_BRI_DN  &kp C_BRI_UP  ___
 	      // R2 Left
-	      &kp LGUI &kp LALT &kp LCTL &kp LSHIFT ___
+	      &kp LGUI  &kp LALT  &kp LCTL  &kp LSHIFT  ___
 	      // R2 Right
-	      ___   &kp C_PREV &kp K_VOL_DN &kp K_VOL_UP &kp C_NEXT
+	      ___  &kp C_PREV  &kp K_VOL_DN  &kp K_VOL_UP  &kp C_NEXT
 	      // R3 Left
-	      ___   ___   ___   ___   ___
+	      ___  ___  ___  ___  ___
 	      // R3 Right 
-	      &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3
+	      &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3
 	      // Thumb Left
-              ___   ___   ___
+              ___  ___  ___
 	      // Thumb Right
-	      &kp C_STOP &kp C_PP &kp C_MUTE
+	      &kp C_STOP  &kp C_PP  &kp C_MUTE
             >;
         };
 
@@ -194,21 +194,21 @@
 
             bindings = <
 	      // R1 Left
-	      &kp LBKT &kp N7 &kp N8 &kp N9 &kp RBKT
+	      &kp LBKT  &kp N7  &kp N8  &kp N9  &kp RBKT
 	      // R1 Right
-	      ___   ___   ___   ___  ___
+	      ___  ___  ___  ___  ___
 	      // R2 Left
-	      &kp SEMI &kp N4 &kp N5 &kp N6 &kp EQUAL
+	      &kp SEMI  &kp N4  &kp N5  &kp N6  &kp EQUAL
 	      // R2 Right
-	      ___   &kp RSHIFT &kp RCTL &kp RALT &kp RGUI
+	      ___  &kp RSHIFT  &kp RCTL  &kp RALT  &kp RGUI
 	      // R3 Left
-	      &kp GRAVE &kp N1 &kp N2 &kp N3 &kp BSLH
+	      &kp GRAVE  &kp N1  &kp N2  &kp N3  &kp BSLH
 	      // R3 Right 
-	      ___   ___   ___   ___  ___
+	      ___  ___  ___  ___  ___
 	      // Thumb Left
-              &kp DOT &kp N0 &kp MINUS
+              &kp DOT  &kp N0  &kp MINUS
 	      // Thumb Right
-	      ___   ___   ___
+	      ___  ___  ___
             >;
         };
    };
