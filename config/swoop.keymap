@@ -92,7 +92,7 @@
 	      // Thumb Left
 	      ___   ___   ___
 	      // Thumb Right
-	      &kp RET &kp BSP &kp DEL
+	      &kp RET &kp BSPC &kp DEL
             >;
         };
 
